@@ -3,6 +3,7 @@ package com.company;
 import java.util.ArrayList;
 import java.util.function.Function;
 /**
+ *Lalalalalalal
  * A binary search tree <br>
  * Requires JDK 1.8 for Function*
  * @author Duncan, Felipe Ronderos
